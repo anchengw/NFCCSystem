@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "NFCCSystem", "NFCCSystem\NFCCSystem.vbproj", "{17D30B65-E7E5-4AA8-ADD8-F9878D7E2F2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17D30B65-E7E5-4AA8-ADD8-F9878D7E2F2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17D30B65-E7E5-4AA8-ADD8-F9878D7E2F2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17D30B65-E7E5-4AA8-ADD8-F9878D7E2F2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17D30B65-E7E5-4AA8-ADD8-F9878D7E2F2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
